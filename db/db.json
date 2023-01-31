@@ -1,0 +1,46 @@
+{
+  "personnes": [
+    {
+      "nom": "Toto",
+      "prenom": "Titi",
+      "id": 1,
+      "niveaux": [
+        {
+          "competence": {
+            "nom": "Toto",
+            "description": "Truc",
+            "id": 1
+          },
+          "niveau": 1
+        }
+      ]
+    }
+  ],
+  "competences": [
+    {
+      "nom": "Toto",
+      "description": "Truc",
+      "id": 1
+    },
+    {
+      "nom": "lzhfg lsdijfh",
+      "description": "lgkhsdmlkfhmsdlkfhmsdlkfhmslkdfhmslkhfmsldjfhsjkldfhmlskjdhfmslkjdhfmlshfmslkhdfmlkshdmflsjhdmfoi mgohsdmovh sqmogh mqsodhg gmsoqhdg lqsjdhg lqsdhg lvqusihdg loqihglqiuhs",
+      "id": 2
+    },
+    {
+      "nom": "zeaze",
+      "description": "azeaze",
+      "id": 3
+    },
+    {
+      "nom": "Java",
+      "description": "Un langage de prog\n",
+      "id": 4
+    },
+    {
+      "nom": "ckhgfkjh",
+      "description": "fkjhfkuyf",
+      "id": 5
+    }
+  ]
+}
